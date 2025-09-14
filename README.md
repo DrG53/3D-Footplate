@@ -6,6 +6,7 @@ The 3D footplate is a non-commercially viable tool to assist medical imaging of 
 What is the 3D Footplate and how can it help in clinical practice?
 
 Currently, laxity and instability of the hindfoot is diagnosed through manual stress tests by a clinician. However, for complex hindfoot problems they cannot distinguish instability on joint level, nor provide quantitative data for preoperative planning. Therefore, a 3D CT-stress test has been developed to obtain quantitative data of the relative positions of the bones (https://doi.org/10.1016/j.jbiomech.2008.02.020). This test mimics the manual stress test as follows: the 3D Footplate allows positioning of the foot relative to the lower leg and holds this position while performing a CT scan (https://doi.org/10.1016/j.ergon.2011.10.006). The foot can be readjusted to a new position to acquire additional imaging. The 3D Footplate has been evaluated for usability (https://doi.org/10.1016/j.ergon.2011.10.006) and is meant to be cleaned and disinfected, but does not have to be sterilised for use.
+See also https://www.utwente.nl/en/et/be/news-events/2025/6/197708/open-source-accelerates-tools-for-small-patient-groups#the-3d-footplate 
 
 Why do we provide the material for the 3D Footplate open source?
 
