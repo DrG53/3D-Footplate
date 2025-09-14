@@ -37,4 +37,8 @@ Best way to start is as follows:
 Limitation of liability for documents provide in repository 3D Footplate
 The authors of this document hereby make no guarantees as to the accuracy, thoroughness or quality of the information in this document, which is provided only on an "AS-IS" and "AS AVAILABLE" basis at the user's sole risk. To the fullest extend the authors disclaim being appointed as the legal manufacturer, that the information provided is sufficient to demonstrate that this medical device is compliant with the Medical Device Regulation, and all warranties regarding the use of the documentation. Always consult with a qualified and trained technical and healthcare professional(s) to manufacture this medical device and perform the necessary additional verification, validation, and documentation to fully comply with the Medical Device Regulation.
 
-The content maybe shared via the Creative Commons license: CC-BY-NC-SA
+License
+Copyright (c) 2025 Gabrielle Tuijthof
+This repository describes Open Hardware
+All material is published under a Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0) .
+
